@@ -14,17 +14,17 @@ function Speakers() {
               src='https://tse1.mm.bing.net/th?id=OIP.O0R3Og68szi5PshHKAyBNQAAAA&pid=Api&P=0&w=300&h=300'
               text=''
               
-              path='/services'
+              path='/'
             />
             <CardItem
-              src=''
+              src='https://tse1.mm.bing.net/th?id=OIP.O0R3Og68szi5PshHKAyBNQAAAA&pid=Api&P=0&w=300&h=300'
               text=''
               
-              path='/products'
+              path='/'
             />
             <CardItem
-              src=''
-              text="Men's shoes"
+              src='https://tse1.mm.bing.net/th?id=OIP.O0R3Og68szi5PshHKAyBNQAAAA&pid=Api&P=0&w=300&h=300'
+              text=""
               
               path='/sign-up'
             />
